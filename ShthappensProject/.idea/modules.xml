@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Shthappens/Shthappens.iml" filepath="$PROJECT_DIR$/Shthappens/Shthappens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShthappensProject.iml" filepath="$PROJECT_DIR$/ShthappensProject.iml" />
+    </modules>
+  </component>
+</project>
+

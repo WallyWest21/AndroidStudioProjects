@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><item name="firtTopTextView" type="id">First Top</item><item name="SecondTopTextView" type="id">Second Top</item><item name="TopSectionButton" type="id">Click Me!</item><item name="button2" type="id">Button2</item></resources>
